@@ -1,3 +1,1 @@
-# RM35
-
-![](github-metrics.svg)
+![metrics](github-metrics.svg)
