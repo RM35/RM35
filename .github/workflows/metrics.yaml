@@ -14,7 +14,4 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          commits_authoring: RM35A, RM35, 92856544+RM35@users.noreply.github.com
           token: ${{ secrets.METRICS }}
